@@ -1,4 +1,3 @@
-
 function getCookie(sName) {
     var sReg = "(?:;)?" + sName + "=([^;]*);?";
     var oReg = new RegExp(sReg);
